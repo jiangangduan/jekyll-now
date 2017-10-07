@@ -17,6 +17,7 @@ Follow instruction on [link](https://www.smashingmagazine.com/2014/08/build-blog
   * read more - 大概是在post的ｍｄ里面的第一个段落(通过多余一个空行来生成一个新的段落)会被显示在index页面上，后面的会落在read more
   * 添加新的post - cp一下post下面的md,修改日期即可
 
+
 * TODO
   * Theme还是没有实验 [link](https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/)
   * 本地Jekyll没有实验
