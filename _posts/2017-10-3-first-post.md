@@ -18,6 +18,6 @@ Follow instruction on [link](https://www.smashingmagazine.com/2014/08/build-blog
   * 添加新的post - cp一下post下面的md,修改日期即可
 
 
-* TODO
-  * Theme还是没有实验 [link](https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/)
-  * 本地Jekyll没有实验
+TODO
+* Theme还是没有实验 [link](https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/)
+* 本地Jekyll没有实验
